@@ -1,7 +1,7 @@
 ---
 
 ---
-title: "IBM6500 11/15 Class Notes"
+title: "IBM6500 11/5 Class Notes"
 author: "Luis Ahumada"
 format:
   html:
@@ -46,3 +46,9 @@ execute:
 - Variable Interdependence: Factor Analysis
 
 - Interobject Similarity: Cluster Analysis, Multidimensional Scaling.
+
+## Appendix
+
+[Git Repo](https://github.com/lahumada63/November-15-Class-Notes)
+
+[Git Page](https://lahumada63.github.io/November-15-Class-Notes/)
