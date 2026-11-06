@@ -1,0 +1,48 @@
+---
+
+---
+title: "IBM6500 11/15 Class Notes"
+author: "Luis Ahumada"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
+    theme: cosmo
+    embed-resources: true
+editor: visual
+execute:
+  warning: false
+  message: false
+---
+
+## Class Notes 11/5
+
+- Walked through Big Query
+
+- Don't need to put in billing information unless we want to transfer over info from GA4
+
+- Went through the Modules and explained Data Analysis Table
+
+- Look at decision framework on powerpoint slide to decide which hypothesis test to use. 6-2?
+
+- The two tests are Parametric Test and Non-Parametric
+
+- This slide can help us decide what tests to run for example , t-test, z-test, Chi-square, k-s, Runs, Bromial
+
+- Use more than 2 groups we use Anova , if only two groups we use T-test
+
+  #### Multivariate Techniques: 
+
+- Dependent Technique
+
+- One Depended Variable: Cross Tabulation , Anlysis of Variance and Covariance, Multiple Regression
+
+- More Than one Dependent Variable: Multivariate Analysis Variance and Covariance, Cononical correlation, Multiple Discriminant Analysis
+
+- Intradependent Tecnhnique
+
+- Variable Interdependence: Factor Analysis
+
+- Interobject Similarity: Cluster Analysis, Multidimensional Scaling.
